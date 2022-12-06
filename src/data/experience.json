@@ -8,10 +8,11 @@
       "dateFrom": "Aug 2019",
       "dateTo": "Aug 2020",
       "info": [
-        "Responsible for web team front-end development and design",
-        "Led in app UI/UX & company wide creative media content"
+        "As a front-end developer, managed several deployed ITMS (Integrated Traffic Management System) and InForm (Asset Management) projects using ReactJS, Redux, and various JavaScript frameworks.",
+        "Contributed technical efforts in building new functionalities and improvements.",
+        "Used Nightwatch.js to conduct research and automate testing for two projects and more than 100 components."
       ],
-      "stack": ["Vue.js", "Nuxt.js", "Node.js", "AWS"],
+      "stack": [ "HTML5", "jQuery", "Nightwatch.js","CSS","React Hooks","Linux" , "Problem Solving" , "Test Automation" , "React.js" , "JavaScript" , "Bootstrap"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
@@ -22,31 +23,16 @@
       "company": "University of Delaware",
       "title": "Graduate Technology Assistant",
       "dateFrom": "November 2021",
-      "dateTo": "Current",
+      "dateTo": "May 2022",
       "info": [
-        "Developing VR application with UE4 and C++ for Oculus Quest",
-        "Web design & development of web platform using wix"
+        "Built and maintained a WordPress database for material culture to record old artefacts. ",
+        "Redesigned the project's organizational structure and investigated ways to move current data to a new relational database to reduce resource costs overall by 50%.",
+        "•\tImproved the application's operating efficiency by 30% by identifying and resolving the problem with utilising jQuery to link spreadsheet responses to Google Forms."
       ],
-      "stack": ["C++", "UE4", "VR", "Web Design"],
+      "stack": ["Airtable", "Wordpress", "PostgreSQL", "Google APIs", "JavaScript", "HTML5"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
-    },
-    {
-      "id": 2,
-      "link": "https://www.udel.edu/",
-      "company": "University of Delaware",
-      "title": "Instructional Assistant",
-      "dateFrom": "May 2022",
-      "dateTo": "Current",
-      "info": [
-        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
-        "Web design, marketing, media and customer engagement."
-      ],
-      "stack": ["React", "Marketing", "Design", "UI/UX"],
-      "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
-      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
     },
     {
       "id": 3,
@@ -56,10 +42,10 @@
       "dateFrom": "July 2022",
       "dateTo": "Current",
       "info": [
-        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
-        "Web design, marketing, media and customer engagement."
+        "Developed Peer-to-Peer marketplace platform for a Progressive Web application using advanced ReactJS technology."," Appointed as front-end developer to execute 90% of duties, including writing APIs, Database and Front End and Back End connection. ",
+        "Used API, stating tables, and web services to integrate front end and back end systems."
       ],
-      "stack": ["React", "Marketing", "Design", "UI/UX"],
+      "stack": ["Progressive Web Application (PWA)","Express.js","npm", "PostgreSQL","HTML5", "jQuery","CSS","React Hooks", "React.js" , "JavaScript" , "Material-UI"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
       "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"

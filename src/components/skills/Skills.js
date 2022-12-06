@@ -7,36 +7,46 @@ import { useContainerDimensions } from '../../hooks'
 const skills = [
     {
         "id": 0,
-        "skillName": "Design",
-        "amount": "95"
-    },
-    {
-        "id": 1,
         "skillName": "React.js",
         "amount": "90"
     },
     {
-        "id": 2,
-        "skillName": "Photoshop",
-        "amount": "90"
+        "id": 1,
+        "skillName": "Javascript",
+        "amount": "80"
     },
-    { "id": 3, "skillName": "Javascript", "amount": "85" },
+    {
+        "id": 2,
+        "skillName": "Node.js",
+        "amount": "75"
+    },
+    { "id": 3, "skillName": "Material-UI", "amount": "85" },
     {
         "id": 4,
-        "skillName": "Node.js",
-        "amount": "80"
+        "skillName": "HTML5 and CSS",
+        "amount": "75"
     },
     {
         "id": 5,
         "skillName": "REST",
         "amount": "75"
     },
-    { "id": 6, "skillName": "Apollo", "amount": "70" },
-    { "id": 7, "skillName": "Gatsby", "amount": "70" },
+    { "id": 6, "skillName": "Express.js", "amount": "70" },
+    { "id": 7, "skillName": "Git", "amount": "70" },
     {
         "id": 8,
+        "skillName": "React hooks",
+        "amount": "80"
+    },
+    {
+        "id": 9,
         "skillName": "Backend",
         "amount": "60"
+    },
+    {
+        "id": 10,
+        "skillName": "Python",
+        "amount": "80"
     }
 ]
 

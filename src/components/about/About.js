@@ -23,15 +23,19 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm a graduate student focusing on Front-End web and emerging
-              tech such as VR, AR and Blockchain.
+              I'm a graduate student tech-savvy and solution-oriented software engineer currently pursuing Master’s degree in computer and Information Sciences with keen focus on applications/website development, software engineering, service delivery, and information technology management.
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working with UE5, JavaScript, React, Vue, Node,
-              Apollo and Gatsby.
+              Expert at Front End development with ReactJS library.
+            </p>
+            <p>
+              <span role="img" aria-label="lightning">
+                ⚡
+              </span>{' '}
+              Deeply knowledgeable in variety of computer languages/software development methodologies and techniques of website construction and maintenance.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -43,12 +47,13 @@ const About = () => {
               <Typewriter
                 options={{
                   strings: [
+                    'to be creative',
                     'learning new technologies',
-                    'exercising',
+                    'learning advanced practical knowledge of the tech',
                     'solving complex problems',
-                    'skiing',
+                    'gaming',
                     'fixing hard-to-fix bugs',
-                    'trying new things',
+                    'playing outdoor sports',
                     'collaborating with others',
                   ],
                   autoStart: true,
@@ -58,8 +63,8 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              Since 2015 - I've spent my time seeking and learning new
-              technologies and forms of digital expression. This has led to me
+              Since 2019 - I've spent my time seeking and learning new
+              technologies and exploring the world of web development. This has led to me
               working on some amazing world-class{' '}
               <Link
                 className="textLink"
